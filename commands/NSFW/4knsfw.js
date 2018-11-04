@@ -1,4 +1,4 @@
-const { Command } = require('discord.js-commando');
+
 const Discord = require('discord.js'); const { Command } = require('discord.js-commando')
 const randomPuppy = require('random-puppy');
 

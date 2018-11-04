@@ -9,7 +9,7 @@ const client = new CommandoClient({
 client.registry
     .registerDefaultTypes()
     .registerGroups([
-        ['NSFW', 'NSFW Commands']
+        ['nsfw', 'NSFW Commands']
     ])
     .registerDefaultGroups()
     .registerDefaultCommands()
